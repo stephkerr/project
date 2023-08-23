@@ -1,6 +1,6 @@
 ---
 title: "Quarto document title"
-author: "Steph Kerr"
+author: "Person B"
 format: html
 editor: visual
 embed-resources: true
